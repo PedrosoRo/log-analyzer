@@ -1,14 +1,24 @@
 # 🔎 Log Analyzer
 
-Ferramenta CLI em Python para análise de logs de autenticação.
+Ferramenta CLI em Python para análise de logs de autenticação, focada na detecção de comportamentos suspeitos como brute force e possíveis invasões.
 
-## O que faz
+## Sobre
+
+Este projeto foi desenvolvido como forma de aplicar na prática conceitos de análise de logs e segurança, focando em identificar padrões de comportamento ao invés de apenas listar eventos.
+
+## Funcionalidades
 
 - Detecta múltiplas tentativas de login falhas
-- Identifica possível brute force
+- Identifica possível brute force por IP
 - Detecta login com sucesso após falhas
 - Exporta resultados em JSON
-- Gera relatórios
+- Gera relatórios em arquivo
+  
+## Instalação
+
+git clone https://github.com/PedrosoRo/log-analyzer.git
+cd log-analyzer
+pip install -e .
 
 ## Como usar
 
