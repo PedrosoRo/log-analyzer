@@ -1,0 +1,10 @@
+setup.py
+loganalyzer/__init__.py
+loganalyzer/analyzer.py
+loganalyzer/main.py
+loganalyzer/utils.py
+loganalyzer.egg-info/PKG-INFO
+loganalyzer.egg-info/SOURCES.txt
+loganalyzer.egg-info/dependency_links.txt
+loganalyzer.egg-info/entry_points.txt
+loganalyzer.egg-info/top_level.txt

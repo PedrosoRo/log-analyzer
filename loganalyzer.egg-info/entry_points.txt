@@ -1,0 +1,2 @@
+[console_scripts]
+loganalyzer = loganalyzer.main:main

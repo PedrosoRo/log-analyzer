@@ -1,0 +1,8 @@
+
+🔎 RELATÓRIO DE ANÁLISE
+----------------------------------------
+IP: 192.168.0.2 → 3 tentativas
+[31m⚠️ ALERTA: Possível brute force em 192.168.0.2
+[33m
+⚠️ POSSÍVEL INVASÃO DETECTADA:
+[33m→ 192.168.0.2 logou com sucesso após falhas (2026-04-28 10:02:00)

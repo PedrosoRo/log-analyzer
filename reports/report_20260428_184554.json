@@ -1,0 +1,23 @@
+{
+    "failed_attempts": {
+        "192.168.0.2": 3
+    },
+    "alerts": [
+        {
+            "ip": "192.168.0.2",
+            "reason": "Poss\u00edvel brute force em 192.168.0.2"
+        },
+        {
+            "ip": "192.168.0.2",
+            "reason": "192.168.0.2 logou com sucesso ap\u00f3s falhas (2026-04-28 10:02:00)"
+        }
+    ],
+    "successful_after_fail": [
+        {
+            "timestamp": "2026-04-28 10:02:00",
+            "action": "LOGIN_SUCCESS",
+            "user": "admin",
+            "ip": "192.168.0.2"
+        }
+    ]
+}
