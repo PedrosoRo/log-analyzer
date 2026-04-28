@@ -2,6 +2,10 @@
 
 Ferramenta CLI em Python para análise de logs de autenticação, focada na detecção de comportamentos suspeitos como brute force e possíveis invasões.
 
+---------------------## ▶️ Uso rápido
+
+loganalyzer sample.log
+
 ## Sobre
 
 Este projeto foi desenvolvido como forma de aplicar na prática conceitos de análise de logs e segurança, focando em identificar padrões de comportamento ao invés de apenas listar eventos.
