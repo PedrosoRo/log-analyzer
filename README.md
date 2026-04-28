@@ -1,5 +1,4 @@
 # log-analyzer
-# 🔎 Log Analyzer
 
 Ferramenta CLI em Python para análise de logs de autenticação.
 
